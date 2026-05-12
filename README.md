@@ -1,4 +1,4 @@
-Hey! I am Dasshu (a.k.a. DasshuDev) and I am a beginner GeodeSDK mod developer and game designer for Geometry Dash.
+<img width="144" height="316" alt="dasshuJump2" src="https://github.com/user-attachments/assets/af63e368-40fa-456c-bd4a-751a28d1551c" />
 
 ---
 
