@@ -4,4 +4,4 @@
 
 ![Better Gauntlets](https://github.com/DasshuDev/BetterGauntlets): ![Mod Version](https://api.geode-sdk.org/v1/mods/dasshu.better-gauntlets/status_badge?stat=version) ![Downloads](https://api.geode-sdk.org/v1/mods/dasshu.better-gauntlets/status_badge?stat=downloads)
 
-![Profile Icon](https://github.com/DasshuDev/Icon-Profile): ![Mod Version](https://api.geode-sdk.org/v1/mods/dasshu.icon_profile/status_badge?stat=version) ![Downloads](https://api.geode-sdk.org/v1/mods/dasshu.icon_profile/status_badge?stat=downloads)
+![Badgified](https://github.com/DasshuDev/Badgified): ![Mod Version](https://api.geode-sdk.org/v1/mods/dasshu.badgified/status_badge?stat=version) ![Downloads](https://api.geode-sdk.org/v1/mods/dasshu.badgified/status_badge?stat=downloads)
